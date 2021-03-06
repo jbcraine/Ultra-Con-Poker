@@ -1,0 +1,1 @@
+﻿public delegate void WonPotEventHandler(object sender, WonPotEventArgs p);

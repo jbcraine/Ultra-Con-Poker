@@ -1,0 +1,1 @@
+﻿public delegate IPokerCommand PlayerMadeDecisionHandler(object sender, PlayerDecisionEventArgs p);

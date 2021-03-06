@@ -1,0 +1,1 @@
+﻿public delegate void ContestantEliminatedEventHandler(object sender, ContestantEliminatedEventArgs c);

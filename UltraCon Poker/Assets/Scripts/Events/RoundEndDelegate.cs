@@ -1,0 +1,1 @@
+﻿public delegate void EndRoundEventHandler(object sender);

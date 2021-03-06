@@ -1,0 +1,1 @@
+﻿public delegate void MoneyEventHandler(object sender, MoneyEventArgs e);
